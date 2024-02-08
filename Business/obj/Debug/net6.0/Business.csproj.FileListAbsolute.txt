@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\Administrator\Desktop\Masaüstü\MK\Kodlama.io\MaskeTakip\Business\obj\Debug\net6.0\ref\Business.dll
